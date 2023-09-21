@@ -1,0 +1,10 @@
+.Navbar{
+    background-color: rgb(61, 209, 24);
+    display: flex;
+    justify-content: space-between;
+    .loginSignup{
+        display: flex;
+        padding-top: 2rem;
+        gap:10px;
+    }
+}
